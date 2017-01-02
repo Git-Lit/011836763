@@ -1,0 +1,63 @@
+<mets xmlns="http://www.loc.gov/METS/" xmlns:MODS="http://www.loc.gov/mods/v3"><dmdSec ID="MODSMD">
+    <mdWrap LABEL="Bibliographic meta-data of the printed version" MDTYPE="MODS" MIMETYPE="text/xml">
+      <xmlData>
+        <MODS:mods version="3.1">
+          <MODS:titleInfo>
+            <MODS:nonSort>The </MODS:nonSort>
+            <MODS:title>chutney lyrics</MODS:title>
+            <MODS:subTitle>a collection of comic pieces in verse on Indian subjects</MODS:subTitle>
+          </MODS:titleInfo>
+          <MODS:name type="personal">
+            <MODS:namePart>Caldwell, Robert C.</MODS:namePart>
+            <MODS:namePart type="date">fl. 1871-1893</MODS:namePart>
+            <MODS:role>
+              <MODS:roleTerm authority="marcrelator" type="text">creator</MODS:roleTerm>
+            </MODS:role>
+          </MODS:name>
+          <MODS:typeOfResource>text</MODS:typeOfResource>
+          <MODS:originInfo>
+            <MODS:place>
+              <MODS:placeTerm authority="marccountry" type="code">ii</MODS:placeTerm>
+            </MODS:place>
+            <MODS:place>
+              <MODS:placeTerm type="text">Madras</MODS:placeTerm>
+            </MODS:place>
+            <MODS:publisher>Higginbotham</MODS:publisher>
+            <MODS:dateIssued>1871</MODS:dateIssued>
+            <MODS:issuance>monographic</MODS:issuance>
+          </MODS:originInfo>
+          <MODS:language>
+            <MODS:languageTerm authority="iso639-2b" type="code">eng</MODS:languageTerm>
+          </MODS:language>
+          <MODS:physicalDescription>
+            <MODS:form authority="marcform">print</MODS:form>
+            <MODS:extent>63 p. ; 21 cm.</MODS:extent>
+          </MODS:physicalDescription>
+          <MODS:note>Anonymous. By Robert C. Caldwell.</MODS:note>
+          <MODS:subject authority="lcsh">
+            <MODS:topic>Humorous poetry, English</MODS:topic>
+          </MODS:subject>
+          <MODS:subject authority="lcsh">
+            <MODS:topic>British</MODS:topic>
+            <MODS:geographic>India</MODS:geographic>
+            <MODS:topic>Social life and customs</MODS:topic>
+            <MODS:topic>Poetry</MODS:topic>
+          </MODS:subject>
+          <MODS:location>
+            <MODS:physicalLocation>British Library HMNTS 11651.g.6.</MODS:physicalLocation>
+          </MODS:location>
+          <MODS:location>
+            <MODS:physicalLocation>British Library OC T 39252</MODS:physicalLocation>
+          </MODS:location>
+          <MODS:recordInfo>
+            <MODS:recordContentSource authority="marcorg">Uk</MODS:recordContentSource>
+            <MODS:recordCreationDate encoding="w3cdtf">1986-02-13</MODS:recordCreationDate>
+            <MODS:recordChangeDate encoding="iso8601">20050211121919.0</MODS:recordChangeDate>
+            <MODS:recordIdentifier source="Uk">011836763</MODS:recordIdentifier>
+          </MODS:recordInfo>
+          <MODS:accessCondition type="Copyright Status">Out of Copyright</MODS:accessCondition>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  </mets>
